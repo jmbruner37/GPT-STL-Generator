@@ -1,0 +1,20 @@
+gpt-stl-generator/
+├── README.md
+├── requirements.txt
+├── setup.py
+├── .gitignore
+├── src/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── gpt_integration.py
+│   ├── stl_generator.py
+│   ├── app.py
+├── frontend/
+│   ├── public/
+│   │   ├── index.html
+│   ├── src/
+│   │   ├── App.css
+│   │   ├── App.js
+│   │   ├── index.js
+│   ├── package.json
+│   ├── package-lock.json
